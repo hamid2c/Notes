@@ -1,1 +1,3 @@
-first line
+Sample call to wikipedia API:
+curl https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Climate_Change/monthly/20160101/20170101
+
